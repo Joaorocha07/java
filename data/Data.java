@@ -41,4 +41,8 @@ public class Data {
         System.out.println();
 
     }
+
+    public int getTime() {
+        return 0;
+    }
 }
